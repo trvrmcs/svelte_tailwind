@@ -1,4 +1,9 @@
+<script lang="ts">
+    import GradientBanner from "./lib/GradientBanner.svelte";
 
-<h1>Here is a gradient</h1>
+    import TabDemo from "./lib/TabDemo.svelte";
+</script>
 
-<div class="h-72 bg-gradient-to-r from-purple-600 via-pink-600 to-blue-600" />
+<GradientBanner>Svelte + Tailwind</GradientBanner>
+
+<TabDemo />
