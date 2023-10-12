@@ -1,8 +1,8 @@
 <script lang="ts">
-    import TabWrapper from "./TabWrapper.svelte";
-    import TabHead from "./TabHead.svelte";
-    import TabHeadItem from "./TabHeadItem.svelte";
-    import TabContentItem from "./TabContentItem.svelte";
+    import TabWrapper from "./tabs/TabWrapper.svelte";
+    import TabHead from "./tabs/TabHead.svelte";
+    import TabHeadItem from "./tabs/TabHeadItem.svelte";
+    import TabContentItem from "./tabs/TabContentItem.svelte";
     import FormGrid from "./FormGrid.svelte";
     import LoginForm from "./LoginForm.svelte";
     import CustomColorDemo from "./CustomColorDemo.svelte";
