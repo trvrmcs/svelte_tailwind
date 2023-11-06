@@ -1,3 +1,5 @@
+
+
 <div class="h-64 bg-fiord-800 p-4 rounded-xl">
     <p class="text-fiord-100">I use a custom color</p>
     <p class="text-fiord-200">I use a custom color</p>

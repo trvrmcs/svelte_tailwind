@@ -119,10 +119,10 @@
                 type="text"
                 placeholder="90210"
             />
-        </div>
+        </div> 
         <p class="text-red-500 text-xs italic">
             {first_name}
-            {last_name}
+            {last_name}, 
             {state}
         </p>
     </div>
